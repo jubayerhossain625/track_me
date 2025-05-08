@@ -45,7 +45,7 @@
             android:value="2" />
 
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAszXC1be8aJ37eHuNcBm_-O1clWkPUwV4"/>
+            android:value="map key"/>
         <service
             android:name="dev.fluttercommunity.plus.background_fetch.BackgroundFetchHeadlessTask"
             android:exported="true"
